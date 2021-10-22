@@ -5,12 +5,13 @@
 .main{
     width: 500px;
     background-color: black;
+    margin: 0 auto;
     color: white;
 }
 
 .screen{
     text-align: right;
-    font-size: 45px;
+    font-size: 60px;
     font-family: "Courier New", Courier, monospace;
     padding: 20px 5px;
 }
